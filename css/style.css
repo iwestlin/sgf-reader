@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "go";
+  src: url("../font/go.woff") format("woff"),
+  url("../font/go.ttf") format("truetype");
+}
+
+body {
+  text-align: center;
+}
+#board {
+  line-height: 1em;
+  font-size: 2em;
+  font-family: 'go';
+}
+button {
+  padding: 5px;
+  margin: 2px 20px;
+}
