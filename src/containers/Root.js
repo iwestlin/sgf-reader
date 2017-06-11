@@ -202,7 +202,7 @@ const Root = React.createClass({
         <h2>SGF Reader of Go</h2>
         <span>Upload SGF File: </span>
         <input type="file" onChange={this.readText} />
-        <a download href="//js007-1253509220.costj.myqcloud.com/sample.sgf">download sample.sgf</a>
+        <a download href="https://js007-1253509220.costj.myqcloud.com/sample.sgf">download sample.sgf</a>
         <pre id="board" ref="board">{boardStr}</pre>
         <button onClick={this.alphago}>Load AlphaGo Self Play #2</button>
         <button onClick={this.clear}>clear</button>
