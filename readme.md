@@ -1,2 +1,19 @@
-本人 react 初学者，这份代码是从[原生 JavaScript](https://github.com/iwestlin/lab/tree/master/go)强行移植到 react 的，可以说一点 react 的优点都没用上，比如双向绑定等等
-……等以后重构吧。
+A Simple SGF Reader for Go
+---
+### usage
+
+- build:
+
+```bash
+npm install
+npm run build
+```
+
+- develop
+
+```bash
+npm run dev
+```
+
+### note:
+I'm a react beginner, and this repo is modified from [Pure JavaScript](https://github.com/iwestlin/lab/tree/master/go) for react learning.

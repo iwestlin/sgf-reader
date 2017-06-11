@@ -2,7 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { AppContainer } from 'react-hot-loader'
 import Root from './containers/Root'
-import css from '../css/style.css'
+import css from './css/style.css'
 
 // for index.html auto reload
 // delete it for production
