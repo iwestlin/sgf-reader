@@ -2,7 +2,7 @@ A Simple SGF Reader for Go
 ---
 ### usage
 
-GIF: http://js007-1253509220.costj.myqcloud.com/sgf.gif
+GIF: http://wx2.sinaimg.cn/large/7f95814bly1fgj6bbh2dlg20gg0jk4qr.gif
 
 - build:
 
